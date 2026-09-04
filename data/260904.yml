@@ -1,0 +1,58 @@
+about:
+  description: Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
+  license: NOASSERTION
+  homepage: 
+  head: 4730312
+  archived: false
+  latestVersion: v0.27.1
+  collectedAt: 2026-09-04T04:38:23Z
+timeline:
+  created: 2020-01-04
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 709
+  watcher: 2
+  fork: 43
+  release: 51
+  contributor: 21
+  pullRequest: 11
+  issue: 55
+language:
+  Rust: 64989
+  Shell: 9616
+  Dockerfile: 747
+totalLine: 75352
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 8
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 37
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 37
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 49
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 56
+  last360d:
+    since: 2025-09-09
+    release: 5
+    mergedPR: 62
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 71

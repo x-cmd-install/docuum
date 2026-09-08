@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3573496,
       "digest": "sha256:0d321e566c6338eb9895ed612410f971de30678ae37bc333a70f652bef83d2f8",
-      "download_count": 1518,
+      "download_count": 1646,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-unknown-linux-gnu"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3140336,
       "digest": "sha256:c1d3dcf3c57c53b50e828f1cfeaecbed819074c511aff22d7c479f7408b27a5c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:40Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-apple-darwin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2677760,
       "digest": "sha256:e9c598d378a2f9bd8bf677af02ffc318e372ae9d31faac3de7b4b527fedfafb3",
-      "download_count": 36,
+      "download_count": 39,
       "created_at": "2026-09-02T00:07:41Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-pc-windows-msvc.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3599632,
       "digest": "sha256:6a03d668d3b7866e50bb7807954508a9490201f860e321f23d5e3aad2af57bfb",
-      "download_count": 4189,
+      "download_count": 4562,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-gnu"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3726416,
       "digest": "sha256:7f1d5d3f4c0d6a0e8c73c48fd543cee277df83ba7cc025c515fa1079971c97f5",
-      "download_count": 90,
+      "download_count": 120,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-musl"

@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3573496,
       "digest": "sha256:0d321e566c6338eb9895ed612410f971de30678ae37bc333a70f652bef83d2f8",
-      "download_count": 1998,
+      "download_count": 2331,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-unknown-linux-gnu"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3599632,
       "digest": "sha256:6a03d668d3b7866e50bb7807954508a9490201f860e321f23d5e3aad2af57bfb",
-      "download_count": 5594,
+      "download_count": 6512,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-gnu"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3726416,
       "digest": "sha256:7f1d5d3f4c0d6a0e8c73c48fd543cee277df83ba7cc025c515fa1079971c97f5",
-      "download_count": 138,
+      "download_count": 148,
       "created_at": "2026-09-02T00:07:40Z",
       "updated_at": "2026-09-02T00:07:41Z",
       "browser_download_url": "https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-musl"

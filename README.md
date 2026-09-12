@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 710 · **Forks**: 43 · **Open issues**: 55 · **Contributors**: 21
+- **Stars**: 709 · **Forks**: 43 · **Open issues**: 55 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-13 | 1 | 18 | 0 | 0 | 0 | 18 |
-| 90d | 2026-06-13 | 1 | 36 | 0 | 0 | 0 | 36 |
-| last180d | 2026-03-15 | 2 | 49 | 0 | 1 | 0 | 56 |
-| 360d | 2025-09-16 | 5 | 61 | 0 | 3 | 1 | 69 |
-| last720d | 2024-09-21 | 5 | 79 | 0 | 5 | 3 | 131 |
+| 30d | 2026-08-13 | 1 | 7 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-14 | 1 | 18 | 0 | 0 | 0 | 18 |
+| 90d | 2026-06-14 | 1 | 36 | 0 | 0 | 0 | 36 |
+| last180d | 2026-03-16 | 2 | 49 | 0 | 1 | 0 | 56 |
+| 360d | 2025-09-17 | 5 | 61 | 0 | 3 | 1 | 69 |
+| last720d | 2024-09-22 | 5 | 79 | 0 | 5 | 3 | 131 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:02:33Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:51:12Z._

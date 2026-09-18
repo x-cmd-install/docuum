@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
+Least recently used (LRU) eviction of Docker images. 🗑️
 
 ![docuum](https://repo.x-cmd.io/docuum.svg?lang=zh)
 
@@ -42,7 +42,7 @@ x install docuum
 ## 发布
 
 - **最新版本**: `v0.27.1` (2026-09-02)
-- **最近提交**: 2026-09-16
+- **最近提交**: 2026-09-17
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install docuum
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 344 · **开放 PR**: 0 · **已关闭 issue**: 43 · **开放 issue**: 12 · **提交数**: 755
+- **发布数**: 51 · **已合并 PR**: 345 · **开放 PR**: 0 · **已关闭 issue**: 43 · **开放 issue**: 12 · **提交数**: 756
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-19 | 1 | 17 | 0 | 0 | 0 | 16 |
-| 90d | 2026-06-19 | 1 | 34 | 0 | 0 | 0 | 32 |
-| last180d | 2026-03-21 | 2 | 50 | 0 | 1 | 0 | 57 |
-| 360d | 2025-09-22 | 5 | 62 | 0 | 3 | 1 | 70 |
-| last720d | 2024-09-27 | 5 | 80 | 0 | 5 | 3 | 132 |
+| 30d | 2026-08-19 | 1 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-20 | 1 | 18 | 0 | 0 | 0 | 17 |
+| 90d | 2026-06-20 | 1 | 33 | 0 | 0 | 0 | 33 |
+| last180d | 2026-03-22 | 2 | 51 | 0 | 1 | 0 | 58 |
+| 360d | 2025-09-23 | 5 | 63 | 0 | 3 | 1 | 71 |
+| last720d | 2024-09-28 | 5 | 81 | 0 | 5 | 3 | 133 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ docuum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T06:33:47Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T06:14:29Z._

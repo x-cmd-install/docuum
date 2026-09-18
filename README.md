@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
+Least recently used (LRU) eviction of Docker images. 🗑️
 
 ![docuum](https://repo.x-cmd.io/docuum.svg)
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.1` (2026-09-02)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 344 · **Open PRs**: 0 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 755
+- **Releases**: 51 · **Merged PRs**: 345 · **Open PRs**: 0 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 756
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-19 | 1 | 17 | 0 | 0 | 0 | 16 |
-| 90d | 2026-06-19 | 1 | 34 | 0 | 0 | 0 | 32 |
-| last180d | 2026-03-21 | 2 | 50 | 0 | 1 | 0 | 57 |
-| 360d | 2025-09-22 | 5 | 62 | 0 | 3 | 1 | 70 |
-| last720d | 2024-09-27 | 5 | 80 | 0 | 5 | 3 | 132 |
+| 30d | 2026-08-19 | 1 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-20 | 1 | 18 | 0 | 0 | 0 | 17 |
+| 90d | 2026-06-20 | 1 | 33 | 0 | 0 | 0 | 33 |
+| last180d | 2026-03-22 | 2 | 51 | 0 | 1 | 0 | 58 |
+| 360d | 2025-09-23 | 5 | 63 | 0 | 3 | 1 | 71 |
+| last720d | 2024-09-28 | 5 | 81 | 0 | 5 | 3 | 133 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:33:46Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:14:28Z._

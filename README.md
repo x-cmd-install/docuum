@@ -4,7 +4,7 @@
 
 Least recently used (LRU) eviction of Docker images. 🗑️
 
-![docuum](https://repo.x-cmd.io/docuum.svg)
+[![x-cmd/install — docuum Code Quality Monitoring Repo Card](https://repo.x-cmd.io/docuum.svg)](https://x-cmd.com/install/docuum)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install docuum
 
 ## Code insight
 
-Total: **1,974** lines of code across **11** files in the top 5 languages.
+Total: **1,982** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,514 | 201 | 237 | 4 |
+| Rust | 1,522 | 202 | 240 | 4 |
 | Yaml | 260 | 40 | 19 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 35 | 0 | 4 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.1` (2026-09-02)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 345 · **Open PRs**: 0 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 756
+- **Releases**: 51 · **Merged PRs**: 348 · **Open PRs**: 0 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 8 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-20 | 1 | 18 | 0 | 0 | 0 | 17 |
-| 90d | 2026-06-20 | 1 | 33 | 0 | 0 | 0 | 33 |
-| last180d | 2026-03-22 | 2 | 51 | 0 | 1 | 0 | 58 |
-| 360d | 2025-09-23 | 5 | 63 | 0 | 3 | 1 | 71 |
-| last720d | 2024-09-28 | 5 | 81 | 0 | 5 | 3 | 133 |
+| 30d | 2026-08-21 | 1 | 10 | 0 | 0 | 0 | 11 |
+| last60d | 2026-07-22 | 1 | 20 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-22 | 1 | 36 | 0 | 0 | 0 | 37 |
+| last180d | 2026-03-24 | 2 | 54 | 0 | 1 | 0 | 62 |
+| 360d | 2025-09-25 | 5 | 66 | 0 | 3 | 1 | 76 |
+| last720d | 2024-09-30 | 5 | 84 | 0 | 5 | 3 | 139 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:14:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:01Z._

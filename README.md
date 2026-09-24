@@ -30,7 +30,7 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/25 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.1` (2026-09-02)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 710 · **Forks**: 43 · **Open issues**: 55 · **Contributors**: 21
+- **Stars**: 711 · **Forks**: 45 · **Open issues**: 55 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 350 · **Open PRs**: 0 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 766
+- **Releases**: 51 · **Merged PRs**: 351 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 12 | 0 | 0 | 0 | 13 |
-| last60d | 2026-07-25 | 1 | 19 | 0 | 0 | 0 | 18 |
-| 90d | 2026-06-25 | 1 | 38 | 0 | 0 | 0 | 39 |
-| last180d | 2026-03-27 | 2 | 56 | 0 | 1 | 0 | 64 |
-| 360d | 2025-09-28 | 5 | 68 | 0 | 3 | 1 | 78 |
-| last720d | 2024-10-03 | 5 | 86 | 0 | 5 | 3 | 143 |
+| 30d | 2026-08-25 | 1 | 13 | 1 | 0 | 0 | 14 |
+| last60d | 2026-07-26 | 1 | 20 | 1 | 0 | 0 | 19 |
+| 90d | 2026-06-26 | 1 | 39 | 1 | 0 | 0 | 40 |
+| last180d | 2026-03-28 | 2 | 57 | 1 | 1 | 0 | 65 |
+| 360d | 2025-09-29 | 5 | 69 | 1 | 3 | 1 | 79 |
+| last720d | 2024-10-04 | 5 | 87 | 1 | 5 | 3 | 144 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:24:58Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:55:35Z._

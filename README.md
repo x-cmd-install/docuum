@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 13 | 1 | 0 | 0 | 14 |
-| last60d | 2026-07-26 | 1 | 20 | 1 | 0 | 0 | 19 |
-| 90d | 2026-06-26 | 1 | 39 | 1 | 0 | 0 | 40 |
-| last180d | 2026-03-28 | 2 | 57 | 1 | 1 | 0 | 65 |
-| 360d | 2025-09-29 | 5 | 69 | 1 | 3 | 1 | 79 |
-| last720d | 2024-10-04 | 5 | 87 | 1 | 5 | 3 | 144 |
+| 30d | 2026-08-26 | 1 | 12 | 1 | 0 | 0 | 14 |
+| last60d | 2026-07-27 | 1 | 20 | 1 | 0 | 0 | 19 |
+| 90d | 2026-06-27 | 1 | 38 | 1 | 0 | 0 | 40 |
+| last180d | 2026-03-29 | 2 | 57 | 1 | 1 | 0 | 65 |
+| 360d | 2025-09-30 | 5 | 69 | 1 | 3 | 1 | 79 |
+| last720d | 2024-10-05 | 5 | 87 | 1 | 5 | 3 | 144 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:55:35Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:57:22Z._

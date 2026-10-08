@@ -14,11 +14,11 @@ x install docuum
 
 ## Code insight
 
-Total: **1,983** lines of code across **11** files in the top 5 languages.
+Total: **1,975** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,523 | 202 | 240 | 4 |
+| Rust | 1,515 | 201 | 238 | 4 |
 | Yaml | 260 | 40 | 19 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 35 | 0 | 4 | 1 |
@@ -30,7 +30,7 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/25 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.1` (2026-09-02)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-07
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 354 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 772
+- **Releases**: 51 · **Merged PRs**: 355 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 773
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 11 | 1 | 0 | 0 | 13 |
-| last60d | 2026-08-08 | 1 | 19 | 1 | 0 | 0 | 20 |
-| 90d | 2026-07-09 | 1 | 35 | 1 | 0 | 0 | 31 |
-| last180d | 2026-04-10 | 1 | 53 | 1 | 1 | 0 | 57 |
-| 360d | 2025-10-12 | 5 | 72 | 1 | 3 | 1 | 82 |
-| last720d | 2024-10-17 | 5 | 90 | 1 | 5 | 3 | 149 |
+| 30d | 2026-09-08 | 0 | 12 | 1 | 0 | 0 | 14 |
+| last60d | 2026-08-09 | 1 | 20 | 1 | 0 | 0 | 21 |
+| 90d | 2026-07-10 | 1 | 36 | 1 | 0 | 0 | 32 |
+| last180d | 2026-04-11 | 1 | 54 | 1 | 1 | 0 | 58 |
+| 360d | 2025-10-13 | 5 | 73 | 1 | 3 | 1 | 83 |
+| last720d | 2024-10-18 | 5 | 91 | 1 | 5 | 3 | 150 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:57:38Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:16:35Z._

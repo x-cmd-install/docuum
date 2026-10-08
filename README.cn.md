@@ -14,11 +14,11 @@ x install docuum
 
 ## 代码洞察
 
-合计: **1,983** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
+合计: **1,975** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,523 | 202 | 240 | 4 |
+| Rust | 1,515 | 201 | 238 | 4 |
 | Yaml | 260 | 40 | 19 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 35 | 0 | 4 | 1 |
@@ -30,7 +30,7 @@ x install docuum
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/25 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ x install docuum
 ## 发布
 
 - **最新版本**: `v0.27.1` (2026-09-02)
-- **最近提交**: 2026-10-04
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install docuum
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 354 · **开放 PR**: 1 · **已关闭 issue**: 43 · **开放 issue**: 12 · **提交数**: 772
+- **发布数**: 51 · **已合并 PR**: 355 · **开放 PR**: 1 · **已关闭 issue**: 43 · **开放 issue**: 12 · **提交数**: 773
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 11 | 1 | 0 | 0 | 13 |
-| last60d | 2026-08-08 | 1 | 19 | 1 | 0 | 0 | 20 |
-| 90d | 2026-07-09 | 1 | 35 | 1 | 0 | 0 | 31 |
-| last180d | 2026-04-10 | 1 | 53 | 1 | 1 | 0 | 57 |
-| 360d | 2025-10-12 | 5 | 72 | 1 | 3 | 1 | 82 |
-| last720d | 2024-10-17 | 5 | 90 | 1 | 5 | 3 | 149 |
+| 30d | 2026-09-08 | 0 | 12 | 1 | 0 | 0 | 14 |
+| last60d | 2026-08-09 | 1 | 20 | 1 | 0 | 0 | 21 |
+| 90d | 2026-07-10 | 1 | 36 | 1 | 0 | 0 | 32 |
+| last180d | 2026-04-11 | 1 | 54 | 1 | 1 | 0 | 58 |
+| 360d | 2025-10-13 | 5 | 73 | 1 | 3 | 1 | 83 |
+| last720d | 2024-10-18 | 5 | 91 | 1 | 5 | 3 | 150 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ docuum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:57:38Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:16:36Z._

@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.1` (2026-09-02)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 357 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 775
+- **Releases**: 51 · **Merged PRs**: 358 · **Open PRs**: 1 · **Closed issues**: 43 · **Open issues**: 12 · **Commits**: 776
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 11 | 1 | 0 | 0 | 6 |
-| last60d | 2026-08-19 | 1 | 20 | 1 | 0 | 0 | 21 |
-| 90d | 2026-07-20 | 1 | 30 | 1 | 0 | 0 | 28 |
-| last180d | 2026-04-21 | 1 | 53 | 1 | 1 | 0 | 53 |
-| 360d | 2025-10-23 | 4 | 73 | 1 | 3 | 1 | 83 |
-| last720d | 2024-10-28 | 5 | 93 | 1 | 5 | 3 | 152 |
+| 30d | 2026-09-19 | 0 | 10 | 1 | 0 | 0 | 7 |
+| last60d | 2026-08-20 | 1 | 21 | 1 | 0 | 0 | 22 |
+| 90d | 2026-07-21 | 1 | 30 | 1 | 0 | 0 | 29 |
+| last180d | 2026-04-22 | 1 | 54 | 1 | 1 | 0 | 54 |
+| 360d | 2025-10-24 | 4 | 74 | 1 | 3 | 1 | 84 |
+| last720d | 2024-10-29 | 5 | 94 | 1 | 5 | 3 | 153 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:26:15Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:36:54Z._

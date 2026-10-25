@@ -14,11 +14,11 @@ x install docuum
 
 ## 代码洞察
 
-合计: **1,975** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
+合计: **2,146** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,515 | 201 | 238 | 4 |
+| Rust | 1,686 | 227 | 279 | 4 |
 | Yaml | 260 | 40 | 19 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 35 | 0 | 4 | 1 |
@@ -41,8 +41,8 @@ x install docuum
 
 ## 发布
 
-- **最新版本**: `v0.27.1` (2026-09-02)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v0.27.3` (2026-10-25)
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -51,31 +51,31 @@ x install docuum
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 358 · **开放 PR**: 1 · **已关闭 issue**: 43 · **开放 issue**: 13 · **提交数**: 776
+- **发布数**: 53 · **已合并 PR**: 361 · **开放 PR**: 1 · **已关闭 issue**: 43 · **开放 issue**: 13 · **提交数**: 784
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 7 | 0 | 0 | 1 | 7 |
-| last60d | 2026-08-25 | 1 | 20 | 1 | 0 | 1 | 22 |
-| 90d | 2026-07-26 | 1 | 27 | 1 | 0 | 1 | 29 |
-| last180d | 2026-04-27 | 1 | 52 | 1 | 0 | 1 | 54 |
-| 360d | 2025-10-29 | 4 | 74 | 1 | 3 | 2 | 84 |
-| last720d | 2024-11-03 | 5 | 94 | 1 | 5 | 4 | 153 |
+| 30d | 2026-09-25 | 2 | 10 | 0 | 0 | 1 | 11 |
+| last60d | 2026-08-26 | 3 | 22 | 1 | 0 | 1 | 22 |
+| 90d | 2026-07-27 | 3 | 30 | 1 | 0 | 1 | 30 |
+| last180d | 2026-04-28 | 3 | 55 | 1 | 0 | 1 | 59 |
+| 360d | 2025-10-30 | 6 | 77 | 1 | 3 | 2 | 88 |
+| last720d | 2024-11-04 | 7 | 97 | 1 | 5 | 4 | 161 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [docuum-aarch64-apple-darwin](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
-| [docuum-aarch64-pc-windows-msvc.exe](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-pc-windows-msvc.exe) | 2.2 MiB | `native/win/arm64` |
-| [docuum-aarch64-unknown-linux-gnu](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-unknown-linux-gnu) | 3.4 MiB | `native/linux/arm64/glibc` |
-| [docuum-aarch64-unknown-linux-musl](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-aarch64-unknown-linux-musl) | 3.4 MiB | `native/linux/arm64/musl` |
-| [docuum-x86_64-apple-darwin](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-apple-darwin) | 3.0 MiB | `native/darwin/x64` |
-| [docuum-x86_64-pc-windows-msvc.exe](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-pc-windows-msvc.exe) | 2.6 MiB | `native/win/x64` |
-| [docuum-x86_64-unknown-linux-gnu](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-gnu) | 3.4 MiB | `native/linux/x64/glibc` |
-| [docuum-x86_64-unknown-linux-musl](https://github.com/stepchowfun/docuum/releases/download/v0.27.1/docuum-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
+| [docuum-aarch64-apple-darwin](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-aarch64-apple-darwin) | 2.9 MiB | `native/darwin/arm64` |
+| [docuum-aarch64-pc-windows-msvc.exe](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-aarch64-pc-windows-msvc.exe) | 2.2 MiB | `native/win/arm64` |
+| [docuum-aarch64-unknown-linux-gnu](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-aarch64-unknown-linux-gnu) | 3.4 MiB | `native/linux/arm64/glibc` |
+| [docuum-aarch64-unknown-linux-musl](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-aarch64-unknown-linux-musl) | 3.4 MiB | `native/linux/arm64/musl` |
+| [docuum-x86_64-apple-darwin](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-apple-darwin) | 3.0 MiB | `native/darwin/x64` |
+| [docuum-x86_64-pc-windows-msvc.exe](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-pc-windows-msvc.exe) | 2.6 MiB | `native/win/x64` |
+| [docuum-x86_64-unknown-linux-gnu](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-unknown-linux-gnu) | 3.4 MiB | `native/linux/x64/glibc` |
+| [docuum-x86_64-unknown-linux-musl](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
@@ -96,4 +96,4 @@ docuum 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T05:47:51Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T05:43:46Z._

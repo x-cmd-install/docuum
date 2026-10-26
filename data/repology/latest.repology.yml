@@ -1,12 +1,12 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: docuum
-  binname: docuum-openrc
-  visiblename: docuum-openrc
+  binname: docuum
+  visiblename: docuum
   version: 0.21.1
   origversion: 0.21.1-r1
   status: outdated
-  summary: Perform least recently used (LRU) eviction of Docker images (OpenRC init scripts)
+  summary: Perform least recently used (LRU) eviction of Docker images
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -14,12 +14,12 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: docuum
-  binname: docuum
-  visiblename: docuum
+  binname: docuum-openrc
+  visiblename: docuum-openrc
   version: 0.21.1
   origversion: 0.21.1-r1
   status: outdated
-  summary: Perform least recently used (LRU) eviction of Docker images
+  summary: Perform least recently used (LRU) eviction of Docker images (OpenRC init scripts)
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -247,7 +247,7 @@
 - repo: homebrew
   srcname: docuum
   visiblename: docuum
-  version: 0.27.1
+  version: 0.27.3
   origversion: null
   status: newest
   summary: Perform least recently used (LRU) eviction of Docker images
@@ -311,7 +311,7 @@
   visiblename: docuum
   version: 0.27.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Least recently used (LRU) eviction of Docker images
   maintainers:
     - mkg20001+nix@gmail.com

@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 12 | 0 | 0 | 1 | 13 |
-| last60d | 2026-08-29 | 3 | 23 | 1 | 0 | 1 | 24 |
-| 90d | 2026-07-30 | 3 | 29 | 1 | 0 | 1 | 32 |
-| last180d | 2026-05-01 | 3 | 57 | 1 | 0 | 1 | 61 |
-| 360d | 2025-11-02 | 6 | 79 | 1 | 3 | 2 | 90 |
-| last720d | 2024-11-07 | 7 | 99 | 1 | 5 | 4 | 163 |
+| 30d | 2026-09-29 | 2 | 12 | 0 | 0 | 1 | 13 |
+| last60d | 2026-08-30 | 3 | 23 | 1 | 0 | 1 | 24 |
+| 90d | 2026-07-31 | 3 | 29 | 1 | 0 | 1 | 32 |
+| last180d | 2026-05-02 | 3 | 57 | 1 | 0 | 1 | 61 |
+| 360d | 2025-11-03 | 6 | 78 | 1 | 3 | 2 | 90 |
+| last720d | 2024-11-08 | 7 | 99 | 1 | 5 | 4 | 163 |
 
 ## Release assets
 
@@ -79,12 +79,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/docuum). **1** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/docuum). **2** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.27.3` | ✅ latest |
-| Nix unstable | `0.27.1` | ⚠️ outdated |
+| Nix unstable | `0.27.3` | ✅ latest |
 | Alpine edge | `0.26.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:51:00Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:55:12Z._

@@ -14,14 +14,14 @@ x install docuum
 
 ## Code insight
 
-Total: **2,146** lines of code across **11** files in the top 5 languages.
+Total: **2,145** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 1,686 | 227 | 279 | 4 |
 | Yaml | 260 | 40 | 19 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
-| Toml | 35 | 0 | 4 | 1 |
+| Toml | 34 | 0 | 4 | 1 |
 | Dockerfile | 9 | 7 | 5 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.3` (2026-10-25)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 366 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 789
+- **Releases**: 53 · **Merged PRs**: 367 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 10 | 0 | 1 | 0 | 12 |
-| last60d | 2026-09-15 | 2 | 23 | 1 | 1 | 0 | 27 |
-| 90d | 2026-08-16 | 3 | 30 | 1 | 1 | 0 | 34 |
-| last180d | 2026-05-18 | 3 | 60 | 1 | 1 | 0 | 64 |
-| 360d | 2025-11-19 | 6 | 81 | 1 | 4 | 0 | 93 |
-| last720d | 2024-11-24 | 7 | 101 | 1 | 6 | 2 | 164 |
+| 30d | 2026-10-16 | 2 | 10 | 0 | 1 | 0 | 11 |
+| last60d | 2026-09-16 | 2 | 23 | 1 | 1 | 0 | 19 |
+| 90d | 2026-08-17 | 3 | 30 | 1 | 1 | 0 | 33 |
+| last180d | 2026-05-19 | 3 | 61 | 1 | 1 | 0 | 65 |
+| 360d | 2025-11-20 | 6 | 82 | 1 | 4 | 0 | 91 |
+| last720d | 2024-11-25 | 7 | 102 | 1 | 6 | 2 | 165 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:04:10Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:47:31Z._

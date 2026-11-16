@@ -14,12 +14,12 @@ x install docuum
 
 ## Code insight
 
-Total: **2,145** lines of code across **11** files in the top 5 languages.
+Total: **2,121** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,686 | 227 | 279 | 4 |
-| Yaml | 260 | 40 | 19 | 3 |
+| Rust | 1,686 | 227 | 278 | 4 |
+| Yaml | 236 | 57 | 30 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
 | Dockerfile | 9 | 7 | 5 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 367 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 790
+- **Releases**: 53 · **Merged PRs**: 371 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 794
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 10 | 0 | 1 | 0 | 11 |
-| last60d | 2026-09-16 | 2 | 23 | 1 | 1 | 0 | 19 |
-| 90d | 2026-08-17 | 3 | 30 | 1 | 1 | 0 | 33 |
-| last180d | 2026-05-19 | 3 | 61 | 1 | 1 | 0 | 65 |
-| 360d | 2025-11-20 | 6 | 82 | 1 | 4 | 0 | 91 |
-| last720d | 2024-11-25 | 7 | 102 | 1 | 6 | 2 | 165 |
+| 30d | 2026-10-17 | 2 | 14 | 0 | 1 | 0 | 15 |
+| last60d | 2026-09-17 | 2 | 26 | 1 | 1 | 0 | 23 |
+| 90d | 2026-08-18 | 3 | 34 | 1 | 1 | 0 | 37 |
+| last180d | 2026-05-20 | 3 | 65 | 1 | 1 | 0 | 69 |
+| 360d | 2025-11-21 | 6 | 86 | 1 | 4 | 0 | 95 |
+| last720d | 2024-11-26 | 7 | 106 | 1 | 6 | 2 | 169 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:47:31Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:36:37Z._

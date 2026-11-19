@@ -30,7 +30,7 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/18 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.3` (2026-10-25)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-19
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 371 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 794
+- **Releases**: 53 · **Merged PRs**: 372 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 13 | 0 | 1 | 0 | 15 |
-| last60d | 2026-09-18 | 2 | 25 | 1 | 1 | 0 | 23 |
-| 90d | 2026-08-19 | 3 | 34 | 1 | 1 | 0 | 37 |
-| last180d | 2026-05-21 | 3 | 65 | 1 | 1 | 0 | 69 |
-| 360d | 2025-11-22 | 6 | 86 | 1 | 4 | 0 | 95 |
-| last720d | 2024-11-27 | 7 | 106 | 1 | 6 | 2 | 169 |
+| 30d | 2026-10-20 | 2 | 14 | 0 | 1 | 0 | 16 |
+| last60d | 2026-09-20 | 2 | 24 | 1 | 1 | 0 | 24 |
+| 90d | 2026-08-21 | 3 | 34 | 1 | 1 | 0 | 38 |
+| last180d | 2026-05-23 | 3 | 66 | 1 | 1 | 0 | 70 |
+| 360d | 2025-11-24 | 6 | 87 | 1 | 4 | 0 | 96 |
+| last720d | 2024-11-29 | 7 | 106 | 1 | 6 | 2 | 168 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:58:39Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:14:58Z._

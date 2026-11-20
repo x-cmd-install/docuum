@@ -14,11 +14,11 @@ x install docuum
 
 ## Code insight
 
-Total: **2,121** lines of code across **11** files in the top 5 languages.
+Total: **2,170** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,686 | 227 | 278 | 4 |
+| Rust | 1,735 | 231 | 281 | 4 |
 | Yaml | 236 | 57 | 30 | 3 |
 | Sh | 156 | 69 | 41 | 2 |
 | Toml | 34 | 0 | 4 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.27.3` (2026-10-25)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 718 · **Forks**: 43 · **Open issues**: 56 · **Contributors**: 21
+- **Stars**: 717 · **Forks**: 43 · **Open issues**: 56 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 372 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 795
+- **Releases**: 53 · **Merged PRs**: 373 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 12 · **Commits**: 796
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 14 | 0 | 1 | 0 | 16 |
-| last60d | 2026-09-20 | 2 | 24 | 1 | 1 | 0 | 24 |
-| 90d | 2026-08-21 | 3 | 34 | 1 | 1 | 0 | 38 |
-| last180d | 2026-05-23 | 3 | 66 | 1 | 1 | 0 | 70 |
-| 360d | 2025-11-24 | 6 | 87 | 1 | 4 | 0 | 96 |
-| last720d | 2024-11-29 | 7 | 106 | 1 | 6 | 2 | 168 |
+| 30d | 2026-10-21 | 2 | 15 | 0 | 1 | 0 | 17 |
+| last60d | 2026-09-21 | 2 | 25 | 1 | 1 | 0 | 25 |
+| 90d | 2026-08-22 | 3 | 35 | 1 | 1 | 0 | 39 |
+| last180d | 2026-05-24 | 3 | 67 | 1 | 1 | 0 | 71 |
+| 360d | 2025-11-25 | 6 | 85 | 1 | 4 | 0 | 97 |
+| last720d | 2024-11-30 | 7 | 107 | 1 | 6 | 2 | 169 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:14:58Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:54:04Z._

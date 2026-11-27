@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 11 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-27 | 2 | 23 | 0 | 1 | 0 | 25 |
-| 90d | 2026-08-28 | 3 | 34 | 1 | 1 | 0 | 38 |
-| last180d | 2026-05-30 | 3 | 68 | 1 | 1 | 0 | 72 |
-| 360d | 2025-12-01 | 5 | 86 | 1 | 3 | 0 | 98 |
-| last720d | 2024-12-06 | 7 | 108 | 1 | 5 | 2 | 170 |
+| 30d | 2026-10-28 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-28 | 2 | 23 | 0 | 1 | 0 | 25 |
+| 90d | 2026-08-29 | 3 | 34 | 1 | 1 | 0 | 38 |
+| last180d | 2026-05-31 | 3 | 68 | 1 | 1 | 0 | 72 |
+| 360d | 2025-12-02 | 5 | 86 | 1 | 3 | 0 | 98 |
+| last720d | 2024-12-07 | 7 | 107 | 1 | 5 | 2 | 169 |
 
 ## Release assets
 
@@ -77,16 +77,6 @@ Lowest-scoring checks:
 | [docuum-x86_64-unknown-linux-gnu](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-unknown-linux-gnu) | 3.4 MiB | `native/linux/x64/glibc` |
 | [docuum-x86_64-unknown-linux-musl](https://github.com/stepchowfun/docuum/releases/download/v0.27.3/docuum-x86_64-unknown-linux-musl) | 3.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **26** distros on [repology.org](https://repology.org/project/docuum). **2** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.27.3` | ✅ latest |
-| Nix unstable | `0.27.3` | ✅ latest |
-| Alpine edge | `0.26.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `docuum` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +86,4 @@ Install metadata for docuum lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:24:28Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:35:17Z._
